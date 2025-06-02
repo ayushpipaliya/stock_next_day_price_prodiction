@@ -6,3 +6,5 @@ matplotlib
 scipy
 seaborn
 plotly
+beautifulsoup4
+bs4
